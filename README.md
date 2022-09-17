@@ -1,3 +1,7 @@
+## September 3
+
+Learned how to properly install tailwind into project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
